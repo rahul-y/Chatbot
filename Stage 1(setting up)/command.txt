@@ -1,4 +1,4 @@
-/* Install "requests module through pip using a command similar to following" */
+/* Install "requests" module through pip using a command similar to following */
 
 
 pip3 install requests
