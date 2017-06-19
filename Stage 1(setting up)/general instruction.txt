@@ -1,0 +1,4 @@
+Python is very powerful language.It can make HTTP requests very concisely and simply through the requests module. It is popular in NLP and ML too so if someone wants to make advanced bot it's good to get comfortable with ML and NLP but we are not going to use these two.
+So there are many reasons to use python instead of using java or any other lang.
+
+So what we are going to do in this project can be achieve by standard python libraries bu we have to use a third-party module named as "requests" which provides a number of improvements to Python's "urllib",and allows us to make HTTP requests very simply and concisely.
